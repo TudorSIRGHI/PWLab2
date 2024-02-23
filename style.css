@@ -61,3 +61,12 @@ nav a:hover,
 nav a:focus {
     opacity: 1;
 }
+
+@element html, body and (min-scroll-y: 100vh) {
+    header {
+        position: fixed;
+        top: 0;
+        background: white;
+        box-shadow: rgba(0,0,0,.05) 0 3px 15px;
+    }
+}
