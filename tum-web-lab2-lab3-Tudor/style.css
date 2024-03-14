@@ -142,3 +142,52 @@ hr {
         }
     }
 }
+.contact_section {
+    padding: 48px;
+    background-color: #2b2927;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 48px;
+    justify-content: space-between;
+    color: #ebdbc1;
+
+    .info {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+
+        hr {
+            margin: 0;
+        }
+
+        h2 {
+            font-size: 32px;
+            font-weight: 600;
+            color: #d99027;
+        }
+
+        p {
+            max-width: 40vw;
+        }
+    }
+
+    form {
+        padding: 32px;
+        background-color: #eee1ca;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 32px;
+
+        input, button {
+            background-color: #d1c3ac;
+            border: transparent;
+            padding: 12px;
+        }
+
+        button {
+            cursor: pointer;
+            background-color: #e2b669;
+        }
+    }
+
+}
