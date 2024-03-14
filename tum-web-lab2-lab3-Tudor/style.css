@@ -124,3 +124,21 @@ hr {
         }
     }
 }
+.projects_section {
+    padding: 48px;
+
+    h2 {
+        font-size: 48px;
+        font-weight: 600;
+        text-align: center;
+    }
+
+    .gallery {
+        justify-content: center;
+
+        img {
+            width: auto;
+            height: 200px;
+        }
+    }
+}
