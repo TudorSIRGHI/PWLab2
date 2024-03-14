@@ -51,3 +51,11 @@ header {
     }
 
 }
+
+hr {
+    margin-top: 12px;
+    width: 160px;
+    height: 4px;
+    background-color: #d99027;
+    border: 0;
+}
