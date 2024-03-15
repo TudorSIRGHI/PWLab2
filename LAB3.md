@@ -15,7 +15,7 @@ Best construction services in the World. Melnic Baum GMBH!
 https://tudorsirghi.github.io/PWLabs/
 
 # Screenshots of the website
-##Desktop version
+## Desktop version
 ![Bine- sade mesei mele impreuna cu Zinaida Julea](https://github.com/TudorSIRGHI/PWLabs/assets/113112932/a39c75e5-c56b-45cb-92e1-fd0841720aec)
 
 ## Mobile version
