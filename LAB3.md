@@ -1,29 +1,22 @@
-# Lab 3 - Responsive Design & Animations
+# Repository for uploading labs for Web Programming. 
 
-Improve your already amazing landing page
 
-## Customer requirements
+### Landing page for Nasu's Company! 
+You don't know what type of house you want?
+Call my NasuQ!
+Want a new house built?
+Call my Nasu!
+Want a reinovation in your ducking house?
+Call my Nasu!
 
-- Some of our clients view the landing page on mobile devices (please make the landing page responsive)
-  - All elements' sizes should be adjusted for desktop/mobile view. `3 Points`
-  - Call to action should be visible on mobile `1 Point`
-  - There should be mobile-only elements (example: a section, a title, an image) `1 Point`
-    
-- We need a mascot for our page similar to Microsoft Clippy, the mascot should:
-  - be related to the topic of the landing page `0.4 Points`
-  - be friendly/pleasant to the eyes (can be an image or an SVG) `1 Point`
-  - appear on the page after some delay on corners or borders of the page `1 Point`
-  - be animated (rotating, tilting, jumping, walking) `1.4 Points`
-  - display a welcome/CTA/info message when hovering with the mouse `1 Point`
- 
-## Dev requirements
+Best construction services in the World. Melnic Baum GMBH!
 
-- Use vanilla CSS and HTML (no frameworks)
-- Have a decent git history (no one commit)
-- The page with mascot and responsive design should be deployed on a live link
+## Link to live demo
+https://tudorsirghi.github.io/PWLabs/
 
-## Links
+# Screenshots of the website
+## Desktop version
+![Bine- sade mesei mele impreuna cu Zinaida Julea](https://github.com/TudorSIRGHI/PWLabs/assets/113112932/a39c75e5-c56b-45cb-92e1-fd0841720aec)
 
-- https://css-tricks.com/a-complete-guide-to-css-media-queries/
-- https://www.w3schools.com/css/css3_animations.asp
-- https://css-tricks.com/almanac/properties/a/animation/
+## Mobile version
+![Firma CUCU, bani din pula mult de lucru](https://github.com/TudorSIRGHI/PWLabs/assets/113112932/8cb22a08-6aae-42f4-83f7-5478ecf550fe)
