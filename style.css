@@ -201,24 +201,7 @@ hr {
     background-color: #d99027;
     border: 0;
 }
-.gallery {
-    padding-top: 48px;
 
-    .item {
-        width: 300px;
-
-        img {
-            height: 200px;
-            width: auto;
-            object-fit: contain;
-        }
-
-        p {
-            font-size: 18px;
-        }
-
-    }
-}
 .commitments_section {
     background: rgb(235, 219, 193);
     background: linear-gradient(180deg, rgba(235, 219, 193, 1) 0%, rgba(255, 255, 255, 1) 50%);
