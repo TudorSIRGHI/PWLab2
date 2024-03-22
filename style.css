@@ -202,19 +202,9 @@ hr {
     border: 0;
 }
 .gallery {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    gap: 64px;
     padding-top: 48px;
 
     .item {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        text-align: center;
-        gap: 12px;
         width: 300px;
 
         img {
